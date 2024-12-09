@@ -1,0 +1,23 @@
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+
+header {
+    background: url("https://drupal-prod.visitcalifornia.com/sites/default/files/styles/fluid_680/public/2024-01/VC_SEO_San-Francisco-Jaantown_gty-639858556-EditRF_1280x640.jpg.webp?itok=6H9qRnwN");
+    background-size: cover;
+    color: white;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+img {
+    margin: 40px 0px 0px 0px;
+}
+
+ul {
+    padding: 10x;
+    background: grey;
+}
